@@ -8,5 +8,3 @@
 - langchain_openai
 - langchain_community
 - chromadb
-
-> dd
